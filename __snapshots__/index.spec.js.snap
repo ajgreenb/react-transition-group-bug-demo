@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Demo 1`] = `
+<CSSTransitionGroup
+  transitionAppear={false}
+  transitionEnter={true}
+  transitionEnterTimeout={300}
+  transitionLeave={true}
+  transitionLeaveTimeout={300}
+  transitionName="demo"
+>
+  This is a test.
+</CSSTransitionGroup>
+`;
